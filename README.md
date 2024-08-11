@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darwin von Corax.
 - 👀 I’m interested in good beer and software development.
-- 🌱 I’m currently learning test-driven development, GoLang, and IoT/embedded programming.
+- 🌱 I’m currently learning test-driven development, Rust, and IoT/embedded programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
